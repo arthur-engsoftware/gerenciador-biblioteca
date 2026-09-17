@@ -1,0 +1,7 @@
+# Executáveis
+main
+src/main
+src/funcao
+
+# Arquivos objeto
+*.o
